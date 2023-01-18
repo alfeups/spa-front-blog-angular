@@ -95,7 +95,10 @@
               "src/styles.css"
             ],
             "scripts": []
-          }
+          },
+          "glob": "_redirects",
+          "input": "src",
+          "output": "/"
         }
       }
     }
